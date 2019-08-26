@@ -30,9 +30,9 @@ Kanban is all about visualizing your work, limiting work in progress, and maximi
 
 ## EOS Kanban Features
 
-EOS Kanban bakes payments and rewards into you agile kanban board. Allowing to manage product, development and costs all in the same place thought the use of Agile Kanban methology. 
+EOS Kanban bakes payments and rewards into your agile kanban boards. Allowing you to manage product, development and costs all in the same place through the use of Agile Kanban methology. 
 
-Getting reward per goal or task as thing done incentivizes even more the project collaborators. 
+Getting rewarded per goal or task as things done incentivizes even more the project collaborators. 
 
 - Real time payments as things get done.
 - Multiple roles and permissions.
