@@ -36,11 +36,15 @@ Getting rewarded per goal or task as things done incentivizes even more the proj
 
 - Real time payments as things get done.
 - Multiple roles and permissions.
+- Flexible workflows.
 - Multiple reward matrix for each role.
 - Custom rewards on cards.
 - Scrow contracts protect parties involved on a task.
 - Pay with any token.
 
+### Other ideas:
+
+- Private organizations and boards
 
 ## EOS Kanban for DACs and Open Source Projects
 
