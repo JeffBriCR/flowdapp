@@ -11,7 +11,6 @@ EOS Kanban allows you to manage your workflow onchain.
 ### Code Standards
 
 - 2 spaces
-- no line break brackets
 - use header files
 - use namespaces
 

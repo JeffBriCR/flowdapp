@@ -2,7 +2,7 @@
 
 namespace eoskanban {
 
-  void eoskanbanapp::createboard( eosio::name board_name ) {
+  void eoskanbanapp::createboard( eosio::name board_name ){
     require_auth( _self );
   }
 
