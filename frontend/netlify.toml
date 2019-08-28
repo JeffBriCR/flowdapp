@@ -1,5 +1,5 @@
 [build]
-  base    = "./"
+  base    = "./frontend"
   command = "yarn build:$STAGE"
   publish = "./build"
 
