@@ -50,6 +50,10 @@ Getting rewarded per goal or task as things done incentivizes even more the proj
 
 One difficult problem for DACs and other Open Source projects is onboarding new collaborators, EOS Kanban solves this issues by clearly defining scoped tasks people can take from a prioritized To Do list and people have the guaratee they'll get rewarded once the task in hand in completed. This provides a much simpler and rewarding ßpath to join type of organization. 
 
+## Staging site 
+
+https://eoskanban.netlify.com/
+
 ## Pura Vida DAC
 
 This product is being developed as part of the Pura Vida DAC governance systems. 
