@@ -1,0 +1,49 @@
+{
+  "name": "eoskanban",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.16",
+    "@emotion/styled": "^10.0.15",
+    "@types/jest": "24.0.18",
+    "@types/node": "12.7.2",
+    "@types/react": "16.9.2",
+    "@types/react-dom": "16.9.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-icons": "^3.7.0",
+    "react-pose": "^4.0.8",
+    "react-scripts": "3.1.1",
+    "typescript": "3.5.3"
+  },
+  "scripts": {
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx",
+    "start": "env-cmd -f .env.localhost react-scripts start",
+    "start:localhost": "env-cmd -f .env.localhost react-scripts start",
+    "start:staging": "env-cmd -f .env.staging react-scripts start",
+    "start:production": "env-cmd -f .env.production react-scripts start",
+    "build": "env-cmd -f .env.localhost react-scripts build",
+    "build:localhost": "env-cmd -f .env.localhost react-scripts build",
+    "build:staging": "env-cmd -f .env.staging react-scripts build",
+    "build:production": "env-cmd -f .env.production react-scripts build",
+    "test": "env-cmd -f .env.localhost react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@kevinwolf/eslint-config": "^0.2.3",
+    "env-cmd": "^9.0.3"
+  }
+}
