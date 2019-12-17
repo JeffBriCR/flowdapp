@@ -20,6 +20,8 @@
     "@blockmatic/tsconfig": "^1.6.0",
     "@types/react": "^16.9.16",
     "@types/react-dom": "^16.9.4",
+    "@types/react-router-dom": "^5.1.3",
+    "@types/theme-ui": "^0.2.6",
     "env-cmd": "^10.0.1",
     "eslint": "^6.7.2",
     "husky": "^3.1.0",
