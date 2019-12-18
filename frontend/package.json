@@ -30,7 +30,7 @@
     "typescript": "^3.7.3"
   },
   "scripts": {
-    "lint": "eslint --ignore-path .gitignore '**/*.+(js|ts|tsx)'",
+    "lint": "eslint --ignore-path .gitignore \"**/*.+(js|ts|tsx)\"",
     "check-types": "tsc",
     "format": "prettier --ignore-path .gitignore --write '**/*.+(js|json|ts|tsx)'",
     "check-format": "yarn prettier --list-different",
