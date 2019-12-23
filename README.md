@@ -48,6 +48,7 @@ EOS Kanban bakes payments into your agile kanban boards.
 
 - Real time payments as things get done.
 - Each card is an escrow contract.
+- Multiple kanban boards.
 - Configure any token.
 - Flexible workflows.
 - Multiple roles and permissions.
