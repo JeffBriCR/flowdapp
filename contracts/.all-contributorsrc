@@ -1,0 +1,43 @@
+{
+  "projectName": "telos-contracts-starter",
+  "projectOwner": "telosdreamstack",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "gaboesquivel",
+      "name": "Gabo Esquivel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/391270?v=4",
+      "profile": "https://gaboesquivel.com",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "lucca65",
+      "name": "Julien Lucca",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1082127?v=4",
+      "profile": "http://lucca65.github.io",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "ansigroup",
+      "name": "Bohdan Cryptolions",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/37701692?v=4",
+      "profile": "http://CryptoLions.io",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

@@ -1,20 +1,19 @@
-# EOS Kanban Smart Contracts
+# EOSIO Kanban Contracts
 
-EOS Kanban allows you to manage your workflow onchain. 
+## Getting Started
 
-## Requirements
+- install eosio https://github.com/eosio/eos  
+- install eosio.cdt https://eosio.github.io/eosio.cdt/latest/index 
 
-- [CMake](https://cmake.org/)
-- [EOSIO](https://github.com/EOSIO/eos)
-- [eosio.cdt](https://github.com/EOSIO/eosio.cdt)
+## Build and Deploy
 
-### Code Standards
+- cd to `build/` directory
+- run the command `cmake ..`
+- run the command `make`
+ 
+After build 
+ 
+- The built smart contract is under the 'kanbankanban' directory in the 'build' directory
+- You can then do a 'set contract' action with 'cleos' and point in to the './build/kanbankanban' directory
 
-- 2 spaces
-- use header files
-- use namespaces
-
-## Build 
-
-`cmake . && make`
-
+Additions to CMake should be done to the CMakeLists.txt in the './src' directory and not in the top level CMakeLists.txt
