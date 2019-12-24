@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@blockmatic/eosio-hooks": "^0.1.7",
     "@emotion/core": "^10.0.22",
     "@mdx-js/react": "^1.5.2",
     "@theme-ui/components": "^0.2.50",

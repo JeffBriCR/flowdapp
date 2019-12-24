@@ -3,6 +3,7 @@ import { jsx } from 'theme-ui'
 import { Switch, Route } from 'react-router-dom'
 import Home from 'routes/Home'
 import About from 'routes/About'
+import Profile from 'routes/Profile'
 import AppProvider from 'components/AppProvider'
 import Navigation from 'components/Navigation'
 
@@ -16,6 +17,9 @@ export default function App(): JSX.Element {
       <Switch>
         <Route path="/about">
           <About />
+        </Route>
+        <Route path="/profile">
+          <Profile />
         </Route>
         <Route path="/">
           <Home />
