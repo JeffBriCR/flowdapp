@@ -1571,9 +1571,9 @@
     read-pkg-up "^7.0.1"
 
 "@blockmatic/prettier-config@^1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@blockmatic/prettier-config/-/prettier-config-1.2.2.tgz#c7e8643516c98324613ddcf3b233e440016efe1d"
-  integrity sha512-r1hy35imc1gmfjFSkIdBSObB+TZF6682EatlKZmTXRZxfzJfX01ROJS2HdNOOxsMiHKY0UwdYk+PdyoYd5n00A==
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@blockmatic/prettier-config/-/prettier-config-1.2.3.tgz#195d8b7826441fe47a7d88c1ad42a4aeac84784b"
+  integrity sha512-71tHbFzutjnpj3mZXoT+BJeIFvh2EwSyjQg7wCNdE6xyDZUCtZkNMNamQb+La3/ODnFNDaONKjnLMqsOCGgWLQ==
 
 "@blockmatic/tsconfig@^1.6.0":
   version "1.6.0"
