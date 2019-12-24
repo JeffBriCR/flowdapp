@@ -4,10 +4,10 @@
 		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
 	</a>
 	<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT" />
-	<a href="https://twitter.com/intent/follow?screen_name=liftdapp">
-	<img src="https://img.shields.io/twitter/follow/liftdapp.svg?style=social&logo=twitter" alt="Follow on Twitter" />
+	<a href="https://twitter.com/intent/follow?screen_name=blockmatic_io">
+	<img src="https://img.shields.io/twitter/follow/blockmatic_io.svg?style=social&logo=twitter" alt="Follow on Twitter" />
 	</a>
-	<a href="https://t.me/liftdapp">
+	<a href="https://t.me/cryptokanban">
 		<img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue?style=social&logo=telegram" alt="Chat on Telegram">
 	</a>
 </p>
@@ -57,9 +57,9 @@ EOS Kanban bakes payments into your agile kanban boards.
 
 One difficult problem for DACs and other Open Source projects is onboarding new collaborators, EOSIO Kanban solves this issue by clearly defining scoped tasks people can take from a prioritized To Do list and people have the guaratee they'll get rewarded once the task in hand is completed. This provides a much simpler and rewarding path to join any type of organization. 
 
-## Staging site 
+## Demo Site 
 
-https://eoskanban.netlify.com/
+https://kanban.blockmatic.io/
 
 ## Contributing
 
