@@ -12,13 +12,19 @@
 	</a>
 </p>
 
-# EOS Kanban
+# DAC Kanban
 
-Your agile kanban board on the EOS blockchain. 
+An agile kanban board for your decentralized organization.
 
-EOS Kanban allows you to get things done faster and get paid as things get done.
+DAC Kanban allows you to get things done faster and get rewarded as things get done.
 
-EOS Kanban leverages all the power of EOSIO blockchains to deliver real-time transactions with zero transactions fees.
+DAC Kanban leverages all the power of EOSIO blockchains to deliver real-time transactions with zero transactions fees.
+
+## What is a DAC ?
+
+An organization that is controlled by stakeholders rather than a central authority.
+
+One difficult problem for DACs and other Open Source projects is onboarding new collaborators, DAC Kanban solves this issue by clearly defining scoped tasks people can take from a prioritized To Do list and they have guaratee they'll get rewarded once the task in hand is completed. This provides a much simple path to join any type of decentralized organization.
 
 ## What is Kanban ?
 
@@ -34,7 +40,7 @@ Kanban became an effective tool to support running a production system as a whol
 
 Agile is a structured and iterative approach to project management and product development. It recognizes the volatility of product development, and provides a methodology for self-organizing teams to respond to change without going off the rails. 
 
-Kanban is all about visualizing your work, limiting work in progress, and maximizing efficiency(or flow). Kanban teams focus on reducing the time it takes to take a project(or user story) from start to finish. They do this by using a kanban board and continuously improving their flow of work. 
+Kanban is all about visualizing your work, limiting work in progress, and maximizing efficiency(or flow). Kanban teams focus on reducing the time it takes to take a project (or user story) from start to finish. They do this by using a kanban board and continuously improving their flow of work. 
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=Oux-frfCLCo" target="_blank">
@@ -42,24 +48,17 @@ Kanban is all about visualizing your work, limiting work in progress, and maximi
     </a>
 </p>
 
-## EOS Kanban Features
+## DAC Kanban Features
 
-EOS Kanban bakes payments into your agile kanban boards. 
-
-- Real time payments as things get done.
 - Each card is an escrow contract.
-- Multiple kanban boards.
-- Configure any token.
-- Flexible workflows.
+- It works with any token.
+- Multiple kanban boards per organization.
 - Multiple roles and permissions.
-
-## EOS Kanban for DACs and Open Source Projects
-
-One difficult problem for DACs and other Open Source projects is onboarding new collaborators, EOSIO Kanban solves this issue by clearly defining scoped tasks people can take from a prioritized To Do list and people have the guaratee they'll get rewarded once the task in hand is completed. This provides a much simpler and rewarding path to join any type of organization. 
+- Allows Flexible workflows.
 
 ## Demo Site 
 
-https://kanban.blockmatic.io/
+https://kanban.io/
 
 ## Contributing
 
