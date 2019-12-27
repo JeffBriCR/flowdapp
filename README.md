@@ -14,7 +14,7 @@
 
 # DAC Kanban
 
-Agile kanban boards for decentralized organization.
+Agile kanban boards for decentralized organizations.
 
 DAC Kanban allows you to get things done faster and get rewarded as things get done.
 
