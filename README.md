@@ -7,24 +7,18 @@
 	<a href="https://twitter.com/intent/follow?screen_name=blockmatic_io">
 	<img src="https://img.shields.io/twitter/follow/blockmatic_io.svg?style=social&logo=twitter" alt="Follow on Twitter" />
 	</a>
-	<a href="https://t.me/dackanban">
+	<a href="https://t.me/flowdapp">
 		<img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue?style=social&logo=telegram" alt="Chat on Telegram">
 	</a>
 </p>
 
-# DAC Kanban
+# FLOW dApp
 
-Agile kanban boards for decentralized organizations.
-
-DAC Kanban allows you to get things done faster and get rewarded as things get done.
+Agile kanban boards for distributed organizations.
 
 DAC Kanban leverages all the power of EOSIO blockchains to deliver real-time transactions with zero transactions fees.
 
-## What is a DAC ?
-
-An organization that is controlled by stakeholders rather than a central authority.
-
-One difficult problem for DACs and other Open Source projects is onboarding new collaborators, DAC Kanban solves this issue by clearly defining scoped tasks people can take from a prioritized To Do list and they have guaratee they'll get rewarded once the task in hand is completed. This provides a much simple path to join any type of decentralized organization.
+DAC Kanban allows you to get things done faster and get rewarded as things get done.
 
 ## What is Kanban ?
 
@@ -44,17 +38,32 @@ Kanban is all about visualizing your work, limiting work in progress, and maximi
     </a>
 </p>
 
-## DAC Kanban Features
+## FLOW Features
 
 - Each card is an escrow contract.
 - It works with any token.
 - Multiple kanban boards per organization.
 - Multiple roles and permissions.
-- Allows Flexible workflows.
+- Allows flexible workflows.
+- Integration with existing DAC systems.
 
 ## Demo Site 
 
-https://dackanban.io/
+https://flowdapp.io/
+
+## FLOW Token & DAC
+
+- WIP 
+
+Current "Analog" board
+
+https://trello.com/b/5i3zk8Oj/flow-general
+
+## What is a DAC ?
+
+An organization that is controlled by stakeholders rather than a central authority.
+
+One difficult problem for DACs and other Open Source projects is onboarding new collaborators, DAC Kanban solves this issue by clearly defining scoped tasks people can take from a prioritized To Do list and they have guaratee they'll get rewarded once the task in hand is completed. This provides a much simple path to join any type of decentralized organization.
 
 ## Contributing
 
