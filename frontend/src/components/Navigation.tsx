@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx, Flex } from 'theme-ui'
-// import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import { useTransit } from '@blockmatic/eosio-hooks'
 const { NavLink, Button } = require('@theme-ui/components')
 
@@ -16,16 +16,16 @@ export default function Navigation() {
         justifyContent: 'space-around',
       }}
     >
-      <NavLink href="/" p={2}>
+      <NavLink as={Link} to="/" p={2}>
         Logo here
       </NavLink>
-      <NavLink href="/" p={2}>
+      <NavLink as={Link} to="/" p={2}>
         Home
       </NavLink>
-      <NavLink href="/about" p={2}>
+      <NavLink as={Link} to="/about" p={2}>
         About
       </NavLink>
-      <NavLink href="/profile" p={2}>
+      <NavLink as={Link} to="/profile" p={2}>
         Profile
       </NavLink>
       <Button onClick={connectScatter}>Login with Scatter</Button>
